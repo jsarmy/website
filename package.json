@@ -1,0 +1,26 @@
+{
+  "name": "jsarmy-website",
+  "version": "1.0.0",
+  "description": "JSarmy website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsarmy/website.git"
+  },
+  "keywords": [
+    "jsarmy",
+    "javascript",
+    "army",
+    "website",
+    "site"
+  ],
+  "author": "Alvaro Pinot <alvaro@neatnait.com> (http://github.com/alvaropinot)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsarmy/website/issues"
+  },
+  "homepage": "https://github.com/jsarmy/website#readme"
+}
