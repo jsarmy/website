@@ -4,7 +4,8 @@
   "description": "JSarmy website",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx http-server ."
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,11 @@
     "website",
     "site"
   ],
-  "author": "Alvaro Pinot <alvaro@neatnait.com> (http://github.com/alvaropinot)",
+  "contributors": [
+    "Alice Mao <garbagecollector@js.army> (http://github.com/alicemao23)",
+    "Alvaro Pinot <null@js.army> (http://github.com/alvaropinot)",
+    "Keith Brewster <keith@js.army> (http://github.com/brewsterbhg)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jsarmy/website/issues"
